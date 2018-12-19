@@ -1,0 +1,12 @@
+Class Study01{                  //第一天接触Github的一段代码
+
+  //三则运算符
+  public static void main (String [] args){
+  
+    int a = 20;
+    int b = 30;
+    System.out.println( a<b || a=b );
+  
+  }
+
+}
